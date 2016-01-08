@@ -14,7 +14,8 @@ public class Sample {
 		driver.findElement(By.id("prodcert_upload")).sendKeys(path);
 		System.out.println("hello this is second sample git comment");
 System.out.println(System.getProperty("os.name"));
-System.out.println("hello this is second sample git");
+System.out.println("hello this is second sample");
+System.out.println("hello this is second sample  ");
 	}
 
 }
