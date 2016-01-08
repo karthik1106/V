@@ -15,7 +15,7 @@ public class Sample {
 		System.out.println("hello this is second sample git comment");
 System.out.println(System.getProperty("os.name"));
 System.out.println("hello this is second sample");
-System.out.println("hello this is second sample  ");
+System.out.println("hello");
 	}
 
 }
